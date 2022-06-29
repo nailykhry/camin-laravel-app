@@ -44,6 +44,7 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 - Pesan saat akan menghapus
 
 <img src="SS/Melakukan penghapusan.png" class="rounded mx-auto d-block" alt="Menghapus sepatu" width="500">
+
 - Berhasil menghapus
 
 <img src="SS/Berhasil terhapus.png" class="rounded mx-auto d-block" alt="Menghapus sepatu" width="500">
