@@ -92,6 +92,12 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 
 <img src="SS/detailproduk.jpg" class="rounded mx-auto d-block" alt="nonadmin" width="500">
 
+
+- Menambah kuantitas dengan +, mengurangi kuantitas dengan -, dan reset dengan klik bagian tengah/nilai kuantitas
+
+<img src="SS/kuantitas.jpg" class="rounded mx-auto d-block" alt="nonadmin" width="500">
+
+
 - Menampilkan produk lainnya
 
 <img src="SS/produklain.jpg" class="rounded mx-auto d-block" alt="nonadmin" width="500">
